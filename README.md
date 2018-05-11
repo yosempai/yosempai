@@ -1,2 +1,0 @@
-# yosempai
-Github Pages Repo
